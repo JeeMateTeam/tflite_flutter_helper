@@ -4,6 +4,7 @@ Makes use of TensorFlow Lite Interpreter on Flutter easier by
 providing simple architecture for processing and manipulating
 input and output of TFLite Models.
 
+
 API design and documentation is identical to the TensorFlow Lite
 Android Support Library.
 
